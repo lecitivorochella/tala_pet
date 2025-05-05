@@ -10,7 +10,7 @@
 
 
     
-   <table class="table">
+   <table class="table HELLO">
         <thead>
             
                 <th>Name</th>
