@@ -50,7 +50,7 @@
                             <label class="form-label">Breed</label>
                             <select class="form-control" name="name" request>
                                 @foreach ($breeds as $breed )
-                                <option value = "{{  $breed=->id}}">{{ $breed->name }}</option>
+                                <option value = "{{  $breed->id}}">{{ $breed->name }}</option>
                                 @endforeach
                             </select>
                         </div>
