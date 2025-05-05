@@ -14,7 +14,7 @@
         <thead>
             
                 <th>Name</th>
-                <th>Furparent Name</th>
+                <th>Name of the Furparent</th>
                 <th>Date of Adoption</th>
                 
             </tr> 
