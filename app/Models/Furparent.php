@@ -11,7 +11,9 @@ class Furparent extends Model
     protected $table = 'furparents';
     protected $fillable = [
         'id',
-        'furparent_name'
+        'furparent_name',
+        'furparent_id',
+        'adoptiondate'
     ];
 
     public function breeds() {

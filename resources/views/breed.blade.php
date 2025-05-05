@@ -48,8 +48,10 @@
 
                         <div class="form-group mb-3">
                             <label class="form-label">Breed</label>
-                            <select class="form-control" name="furparent_id" request>
-                            <option disabled selected>-- Select Furparent --</option>
+                            <select class="form-control" name="name" request>
+                                @foreach ($breeds as $breed )
+                                <option value = "{{  $breed=->id}}">{{ $breed->name }}</option>
+                                @endforeach
                             </select>
                         </div>
 

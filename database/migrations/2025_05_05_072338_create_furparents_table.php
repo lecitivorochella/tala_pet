@@ -14,12 +14,11 @@ return new class extends Migration
     public function up()
     {
         Schema::create('furparents', function (Blueprint $table) {
-            $table->bigIncrements('id');
+            $table->id();
             $table->string('furparent_name');
             $table->bigInteger('breed_id')->unsigned();
             $table->date('adoption_date');
             $table->foreign('breed_id')->references('id')->on('breeds');
-            $table->save();
             $table->timestamps();
         });
     }
