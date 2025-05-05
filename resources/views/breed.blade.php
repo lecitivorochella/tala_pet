@@ -16,7 +16,7 @@
                 <th>Name</th>
                 <th>Furparent Name</th>
                 <th>Date of Adoption</th>
-                <th>hi</th>
+                
             </tr> 
         </thead>
         <tbody>
