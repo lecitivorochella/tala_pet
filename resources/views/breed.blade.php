@@ -8,8 +8,11 @@
         Add 
     </button>
 
-    <table class="table">
+
+    
+   <table class="table">
         <thead>
+            
                 <th>Name</th>
                 <th>Furparent Name</th>
                 <th>Date of Adoption</th>
