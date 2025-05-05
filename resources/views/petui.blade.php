@@ -1,8 +1,8 @@
 @extends('main')
 
 @section('content')
-<div class="container hello">
-    <div class="row">
+<div class="container">
+    <div class="row hello">
         <div class="col-md-12 text-center">
             <br>
             <h1>Welcome, pet lover!</h1>
