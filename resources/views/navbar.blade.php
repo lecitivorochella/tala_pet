@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary navbar-light bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand text-white fw-bold" href="#">Dyfe.</a>
+    <a class="navbar-brand text-dark fw-bold" href="#">Dyfe.</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" 
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -21,11 +21,6 @@
           <a class="nav-link text-white fw-bold" href="#">FAQs</a>
         </li>
       </ul>
-
-      <form class="d-flex me-3" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
 
       <!-- Optional admin greeting -->
       <!-- 
