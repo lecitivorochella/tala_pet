@@ -54,7 +54,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    hello cla
+                    hello clarence
                 </div>
             </div>
         </div>
