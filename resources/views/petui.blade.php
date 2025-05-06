@@ -8,7 +8,7 @@
             <h1>Welcome, pet lover!</h1>
             <p style="font-size:large;">Every paw deserves a sweet home ❤️</p>
         </div>
-        
+
     </div>
     <div class="row" style="align-content: center;">
     <img class = "img-fluid"  style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);" src="https://img.freepik.com/free-photo/beautiful-shot-different-dog-breeds-resting_181624-19887.jpg?t=st=1745288793~exp=1745292393~hmac=85ac416000fb3d404b43398a324f65a29afb39e8f111873cae3dd8b58cd0928b&w=826">
@@ -34,9 +34,9 @@
                             <div class="carousel-item">
                                 <img class="img-fluid" style="width: 70%; height: 70%; border-radius: 15px" src="https://img.freepik.com/premium-photo/cute-dog-cat-together-white-background_392895-469501.jpg?w=1380" alt="Third slide">
                             </div>
-                            
+
                         </div>
-            
+
                         <!-- Navigation Controls -->
                         <button class="carousel-control-prev" type="button" data-bs-target="#carousel1" data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -47,8 +47,8 @@
                     </div>
                 </div>
             </div>
-            
-                
+            <p> hello ella </p>
+
         </div>
         </div>
 @endsection
