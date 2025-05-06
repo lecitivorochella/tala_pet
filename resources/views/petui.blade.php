@@ -47,8 +47,15 @@
                     </div>
                 </div>
             </div>
-            <p> hello ella </p>
 
         </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    hello
+                </div>
+            </div>
         </div>
 @endsection
